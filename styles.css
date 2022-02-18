@@ -1,5 +1,6 @@
 body{ 
     text-align: center;
+    background-color: black;
 }
 .container{ 
     display: flex; 
@@ -23,7 +24,6 @@ label{
     color: var(--primary-color);
     display: flex;
     text-align: center;
-    /* align-items: center; */
     padding: 1rem;
 }
 #check-button{ 
